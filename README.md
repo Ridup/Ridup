@@ -34,12 +34,11 @@ A full-stack engineer who has been working for nearly four years, loves music an
 
 #### Technologies
 
-![Spring](https://img.shields.io/badge/-Spring-%23a51f17.svg?&logo=Spring&logoColor=green&style=flat-square)  <img src="https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square" alt="Ant Design" /> <img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
+![Spring](https://img.shields.io/badge/-Spring-white.svg?&logo=Spring&logoColor=green&style=flat-square)  <img src="https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square" alt="Ant Design" /> <img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
 <img src="https://img.shields.io/badge/Mysql-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-%23a51f17.svg?logo=redis&logoColor=white&style=flat-square" alt="Redis" />
 
 #### Tools
-<img src="https://img.shields.io/badge/Jetbrain Idea-%23000000.svg?logo=Idea&logoColor=blue&style=flat-square" alt="docker" /> 
-<img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> 
+<img src="https://img.shields.io/badge/Jetbrain Idea-%23000000.svg?logo=Idea&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> 
 
 ---
 
