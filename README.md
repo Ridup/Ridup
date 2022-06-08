@@ -23,6 +23,31 @@ A full-stack engineer who has been working for nearly four years, loves music an
 
 - 📝My Blog: [ridup.cn](https://ridup.cn)
 
+### Technology Stack
+
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+
+#### Technologies
+
+#### Tools
+
+#### 
+
+
+---
+
+<p>
+    <a href="https://ridup.cn/">
+      <img src="https://github-profile-trophy.vercel.app/?username=ridup&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+    </a>
+</p>
+
 Do not multiply entities beyond necessity.
 
 > 心之所向，素履以往，生如逆旅，一苇以航。
+
