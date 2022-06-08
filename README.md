@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ridup&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 A full-stack engineer who has been working for nearly four years, loves music and movies, enjoys cooking.
 
 
