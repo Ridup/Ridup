@@ -27,9 +27,9 @@ A full-stack engineer who has been working for nearly four years, loves music an
 
 #### Languages
 
+![Java](https://img.shields.io/badge/Java-%23007acc.svg?&logo=java&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
 #### Technologies
