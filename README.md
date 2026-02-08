@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ridup&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 A full-stack engineer who has been working for nearly four years, loves music and movies, enjoys cooking.
 
 
@@ -42,12 +40,6 @@ A full-stack engineer who has been working for nearly four years, loves music an
 
 ---
 
-<p>
-    <a href="https://ridup.cn/">
-      <img src="https://github-profile-trophy.vercel.app/?username=ridup&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
-    </a>
-</p>
-
 Do not multiply entities beyond necessity.
 
 > 心之所向，素履以往，生如逆旅，一苇以航。
@@ -59,7 +51,7 @@ Being made with [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenS
 
 
 
---- --- 
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Always+Learning...)](https://git.io/typing-svg)
 
